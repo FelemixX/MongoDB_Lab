@@ -1,4 +1,4 @@
-#create user and schema before executing this code
+//create user and schema before executing this code
 
 use test
 
